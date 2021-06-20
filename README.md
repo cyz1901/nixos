@@ -1,0 +1,2 @@
+# nixos
+Persional nixos config
